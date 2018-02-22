@@ -14,6 +14,8 @@ Questions to Explore:
 4. Which borough was the "cleanest?" The "dirtiest?"
 5. Is there correlation between wealth/demographics of a neighborhood and how the restaurants are rated?
 6. What would a heat map look like? Are there "hot beds" or pockets of dirty/clean restaurants? Could one predict which restaurants are likely to have rodent problems based on such a heat map? For example, if a certain area of Brooklyn was known to have lots of roach/mice problems, with what degree of certainty could one predict that a new restaurant would receive violations for mice? This could be addressed by first creating a heat map and then looking at restaurants that opened in the past year and see if they received similar violations.
+7. Like the police often have unofficial quotas at the end of the month (resulting in a higher number of summons issued in the later part of the month), is there something similar with the NYC DOH? Do violations increase towards the end of the month?
+8. Do cheaper restaurants have more violations because they might not be able to pay the fines/ fix the more expensive issues? Is it possible to merge Yelp (which gives an approximate cost ranging from $ - $$$$ to answer this?) Or maybe it just means cheaper places are less concerned with health code violations? Any way to distinguish the two?
 
 Questions I don't know how to answer:
 1. Having worked in the industry for many years, I know from first hand experience in multiple restaurants that an inspection from the DOH is extremely subjective to the individual conducting the inspection. It would be interesting to see which inspectors were the strictest/most harsh, but I don't believe this is data that has been released. Might not be answerable with the given data set.
